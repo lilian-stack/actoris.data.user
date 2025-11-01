@@ -1,5 +1,13 @@
 {
-  "history": [],
+  "history": [
+    {
+      "gameId": "367520",
+      "gameTitle": "Hollow Knight",
+      "lastPlayed": "2025-11-01T21:39:37.611Z",
+      "playCount": 1,
+      "totalTime": 0
+    }
+  ],
   "stats": {
     "totalGamesPlayed": 0,
     "totalPlayTime": 0,
@@ -15,6 +23,94 @@
       "read": false,
       "id": "1762027644378",
       "createdAt": "2025-11-01T20:07:24.378Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762032901757",
+      "createdAt": "2025-11-01T21:35:01.757Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762032901756",
+      "createdAt": "2025-11-01T21:35:01.756Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033100331",
+      "createdAt": "2025-11-01T21:38:20.331Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033100307",
+      "createdAt": "2025-11-01T21:38:20.307Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033100284",
+      "createdAt": "2025-11-01T21:38:20.284Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033748338",
+      "createdAt": "2025-11-01T21:49:08.338Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033748308",
+      "createdAt": "2025-11-01T21:49:08.308Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033748284",
+      "createdAt": "2025-11-01T21:49:08.284Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033379351",
+      "createdAt": "2025-11-01T21:42:59.351Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033379326",
+      "createdAt": "2025-11-01T21:42:59.326Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033379301",
+      "createdAt": "2025-11-01T21:42:59.301Z"
     }
   ],
   "friends": [
@@ -34,7 +130,7 @@
   ],
   "friendRequests": [],
   "favorites": [],
-  "lastSeen": "2025-11-01T19:10:30.422Z",
+  "lastSeen": "2025-11-01T21:50:07.339Z",
   "chatHistory": {},
   "avatar": null,
   "avatarHistory": []
