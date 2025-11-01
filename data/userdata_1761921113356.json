@@ -1,0 +1,49 @@
+{
+  "history": [],
+  "stats": {
+    "totalGamesPlayed": 0,
+    "totalPlayTime": 0,
+    "favoriteGenre": "",
+    "gamesPlayedThisWeek": 0
+  },
+  "settings": {
+    "theme": "light",
+    "language": "fr",
+    "notifications": true,
+    "autoStart": true,
+    "downloadPath": "C:\\Games",
+    "maxConcurrent": 3
+  },
+  "notifications": [
+    {
+      "type": "general",
+      "title": "Demande d'amitié",
+      "message": "NalRyof veut être votre ami",
+      "metadata": {
+        "friendRequestId": "1761924540428"
+      },
+      "id": "1761924541214",
+      "createdAt": "2025-10-31T15:29:01.214Z",
+      "read": true
+    }
+  ],
+  "friends": [],
+  "friendRequests": [
+    {
+      "id": "1761924540428",
+      "fromUserId": "1761861298101",
+      "fromUsername": "NalRyof",
+      "fromEmail": "pyolfort2@gmail.com",
+      "toUserId": "1761921113356",
+      "createdAt": "2025-10-31T15:29:00.428Z",
+      "status": "accepted"
+    }
+  ],
+  "favorites": [],
+  "lastSeen": "2025-10-31T22:50:55.561Z",
+  "lastKnownGameIds": [
+    "1817070",
+    "2651280",
+    "2625420"
+  ]
+}
