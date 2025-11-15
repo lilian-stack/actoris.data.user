@@ -1,15 +1,6 @@
 {
   "users": [
     {
-      "id": "1762008437041",
-      "username": "rikita",
-      "email": "ayadiyakine557@gmail.com",
-      "password": "2007ayad",
-      "avatar": null,
-      "isVip": false,
-      "createdAt": "2025-11-01T14:47:17.041Z"
-    },
-    {
       "id": "1762016279585",
       "username": "limsa",
       "email": "lilianlesieur82@gmail.com",
