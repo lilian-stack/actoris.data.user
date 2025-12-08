@@ -1,14 +1,3 @@
 {
-  "users": [
-    {
-      "id": "1762016279585",
-      "username": "limsa",
-      "email": "lilianlesieur82@gmail.com",
-      "password": "Adsl82600",
-      "avatar": "",
-      "isVip": false,
-      "createdAt": "2025-11-01T16:57:59.585Z",
-      "isAdmin": true
-    }
-  ]
+  "users": []
 }
